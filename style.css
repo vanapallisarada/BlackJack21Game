@@ -1,0 +1,20 @@
+body{
+    background-color:forestgreen;
+    text-align: center;
+    color:white;
+    margin-top:250px;
+
+}
+h1{
+    color: yellow;
+}
+p{
+    font-size:20px;
+}
+button {
+    width:150px;
+    height: 50px;
+    background-color:gold;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
